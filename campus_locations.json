@@ -1,0 +1,66 @@
+{
+    "canteen": {
+        "en": "The canteen is in the APJ block near the east S J block.",
+        "ta": "Canteen  S J block pakkathula  APJ block la iruku."
+    },
+    "library": {
+        "en": "The library is in the GG block, ground floor",
+        "ta": "Library GG block la, ground floor la irukku."
+    },
+    "admission": {
+        "en": "The admission office is in the S J block, near to the room SJB-108.",
+        "ta": "Admission office S J block-la, SJB-108 room la  irukku."
+    },
+    "exam cell": {
+        "en": "The exam cell is in the first P G block,2nd floor.",
+        "ta": "Exam cell P G block la,second floor la  irukku."
+    },
+    "IT department":{
+        "en":"The I T department is on 1st floor of S J block.",
+        "ta":"I T department S J block la first floor la room number 104 la irukku ."
+    },
+    "CSE department": { 
+        "en": "The C S E department is on 2nd floor of S J block room number 320.",
+        "ta": "C S E department ku second floor la room number 320 iruku."
+    },
+    "ECE department": {
+        "en": "The E C E department is on ground floor of S J block room number 103.",
+        "ta": "E C E department S J block la ground floor la room number 103 la irukku."
+    },
+    "CSBS department": {
+        "en": "The C S B S department is on 2nd floor of S J block room number 305.",
+        "ta": "C S B S department S J block la second floor la room number 305 iruku."
+    },
+    "BME department": {
+        "en": "The B M E department is on 2nd floor of S J block room number 305.",
+        "ta": "B M E department S J block la second floor la room number 305 la irukku."
+    },
+    "EEE department": {
+        "en": "The triple E department is on 2nd floor of G G block.",
+        "ta": "Triple E department G G block la second floor la room number 305 la irukku."
+    },
+    "Civil department": {
+        "en": "The Civil department is on 1st floor of G G block room number 205.",
+        "ta": "Civil department G G block la first floor la room number 205 la iruku."
+    },
+    "Mechanical department": {
+        "en": "The Mechanical department is on 2nd floor of G G block room number 312.",
+        "ta": "Mechanical department G G block la second floor la room number 312 la iruku."
+    },
+    "IT first year": {
+        "en": "The I T 1st year A section is on 1st floor of S J block room number 215.",
+        "ta": "I T first year A section S J Block la first floor la room number 215 la iruku."
+    },
+    "IT second year": {
+        "en": "The I T 2nd year A section is on 1st floor of S J block room number 217.",
+        "ta": "I T second year A section S J Block la first floor la room number 217 la iruku."
+    },
+    "IT third year": {
+        "en": "The I T 3rd year A section is on 1st floor of S J block room number 218.",
+        "ta": "I T third year A section S J Block la first floor la room number 218 la iruku."
+    },
+    "IT final year": {
+        "en": "The I T final year is on 1st floor of S J block room number 220.",
+        "ta": "I T final year S J Block la first floor la room number 220 la iruku."
+    }
+}
